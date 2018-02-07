@@ -1,6 +1,6 @@
 # seek
 提示：免费版本也不能保证长期稳定性，如自己已有购买其他工具，请谨慎选择付费套餐，以免上当受骗或承担失效风险！
 
-# 1、Android版本：点击以上附件中的“shengshi1.apk”、“shengshi2.apk”下载安装  （如遇到微信内无法打开的情况，请复制本链接到外部浏览器打开！）
+# 1、Android版本：点击上面蓝字"View code"中的“shengshi1.apk”、“shengshi2.apk”下载安装  （务必使用外部浏览器打开！不要用微信直接打开！）
 
 # 2、iOS版本：在自带App Store商店搜索“Fast VPN”、“核桃VPN”、“灯泡VPN”下载
