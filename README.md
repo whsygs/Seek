@@ -3,4 +3,4 @@
 
 **一、Android版本：** <p>点击上面蓝字"View code"中的“shengshi1.apk”、“shengshi2.apk”下载安装。务必使用外部浏览器且切换为PC模式（即浏览器UA设置勾选PC）打开，不要用微信打开! <p/>
 
-# 二、iOS版本：在自带App Store商店搜索“FastBall”、“热点VPN”、“核桃VPN”、“灯泡VPN”下载
+**二、iOS版本：** <p>在自带App Store商店搜索“FastBall”、“热点VPN”、“核桃VPN”、“灯泡VPN”下载<p/>
